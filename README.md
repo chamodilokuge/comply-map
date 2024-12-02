@@ -101,3 +101,6 @@ npm start
 The app uses OpenStreetMap for displaying interactive maps. Here's a preview of what the map looks like:
 
 ![OpenStreetMap Preview](https://www.openstreetmap.org/history)
+<p align="center">
+<img width="296" alt="Screenshot 2024-12-02 at 21 19 58" src="https://github.com/user-attachments/assets/a00da60b-5fe2-49da-912c-4edd6950988f">
+</p>
